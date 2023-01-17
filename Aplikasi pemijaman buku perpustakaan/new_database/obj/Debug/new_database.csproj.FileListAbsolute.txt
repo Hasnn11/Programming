@@ -1,0 +1,9 @@
+C:\Users\Hasnn\Documents\Tugas\Visual Net\Tugas4\new_database\new_database\obj\Debug\new_database.csprojResolveAssemblyReference.cache
+C:\Users\Hasnn\Documents\Tugas\Visual Net\Tugas4\new_database\new_database\obj\Debug\new_database.MainForm.resources
+C:\Users\Hasnn\Documents\Tugas\Visual Net\Tugas4\new_database\new_database\obj\Debug\new_database.csproj.GenerateResource.Cache
+C:\Users\Hasnn\Documents\Tugas\Visual Net\Tugas4\new_database\new_database\bin\Debug\new_database.exe.config
+C:\Users\Hasnn\Documents\Tugas\Visual Net\Tugas4\new_database\new_database\bin\Debug\new_database.exe
+C:\Users\Hasnn\Documents\Tugas\Visual Net\Tugas4\new_database\new_database\bin\Debug\new_database.pdb
+C:\Users\Hasnn\Documents\Tugas\Visual Net\Tugas4\new_database\new_database\bin\Debug\MySql.Data.DLL
+C:\Users\Hasnn\Documents\Tugas\Visual Net\Tugas4\new_database\new_database\obj\Debug\new_database.exe
+C:\Users\Hasnn\Documents\Tugas\Visual Net\Tugas4\new_database\new_database\obj\Debug\new_database.pdb
